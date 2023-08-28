@@ -1,6 +1,11 @@
 body {
     background-color: hsl(210, 46%, 95%);
-
+#tirnak{
+    color: hsl(263, 29%, 68%);
+    font-size: 500px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 450px;
+}
 
 }
 .pclass{
@@ -18,7 +23,7 @@ body {
     background-color: hsl(263, 55%, 52%);
     border-radius: 10px;
     margin-left: 140px;
-    margin-top: 100px;
+    margin-top: -482px;
 }
 
 .kucukkutu {
