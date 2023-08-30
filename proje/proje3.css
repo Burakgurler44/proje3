@@ -1,12 +1,10 @@
 body {
     background-color: hsl(210, 46%, 95%);
-#tirnak{
-    color: hsl(263, 29%, 68%);
-    font-size: 500px;
-    font-family:Arial, Helvetica, sans-serif;
-    margin-left: 450px;
+#tirnak {color: hsl(263, 29%, 68%);
+font-size: 500px;
+font-family:Arial, Helvetica, sans-serif;
+margin-left: 450px;
 }
-
 }
 .pclass{
    color: rgb(172, 172, 172);
@@ -152,6 +150,7 @@ h4 {
 }
 
 @media screen and (max-width:375px) {
+    
     .sonkutu {
 
         width: 320px;
@@ -201,6 +200,7 @@ h4 {
         float: left;
         height: 380px;
         width: 320px;
+        margin-top: 90px;
     }
     .pclass{
         margin-top: -40px;
@@ -209,4 +209,11 @@ h4 {
     .phclass{
         margin-top: -35px;
     }
+
+    #tirnak{
+        position: fixed;
+         left: 300px;
+        
+        
+     }
 }
